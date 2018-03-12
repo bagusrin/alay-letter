@@ -1,0 +1,23 @@
+{
+  "name": "alay-letter",
+  "version": "1.0.0",
+  "description": "Convert string to alay format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haidarafif0809/alay-letter.git"
+  },
+  "keywords": [
+    "converter",
+    "alay"
+  ],
+  "author": "Haidar Afif Maulana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haidarafif0809/alay-letter/issues"
+  },
+  "homepage": "https://github.com/haidarafif0809/alay-letter#readme"
+}
